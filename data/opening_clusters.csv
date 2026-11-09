@@ -1,0 +1,21 @@
+Cluster,Name,Games,TopFamily,TopFamilyShare,SecondFamily,TypicalLine,TypicalLineShare,MeanBookDepth,CarlsenWhiteShare
+0,Caro-Kann Defense / Scandinavian Defense,1433,Caro-Kann Defense,0.163,Scandinavian Defense,e4 d5 exd5 Qxd5 Nc3 Qd6 d4 Nf6,0.053,6.3,0.488
+1,Sicilian Defense 1,1360,Sicilian Defense,0.971,Philidor Defense,e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6,0.396,10.3,0.469
+2,French Defense / Caro-Kann Defense,1286,French Defense,0.426,Caro-Kann Defense,e4 e6 d4 d5 e5 c5 c3 Nc6,0.05,6.8,0.448
+3,Queen's Gambit Declined / Slav Defense,1266,Queen's Gambit Declined,0.403,Slav Defense,d4 d5 c4 c6 Nf3 Nf6 Nc3 e6,0.037,8.4,0.479
+4,Sicilian Defense 2,1052,Sicilian Defense,0.952,Zukertort Opening,e4 c5 Nf3 Nc6 Bb5 g6 O-O Bg7,0.068,5.3,0.545
+5,Ruy Lopez / Four Knights Game,1008,Ruy Lopez,0.286,Four Knights Game,e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4,0.162,8.7,0.583
+6,Nimzo-Indian Defense / Queen's Gambit Declined,974,Nimzo-Indian Defense,0.463,Queen's Gambit Declined,d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O,0.099,9.3,0.571
+7,King's Indian Defense,932,King's Indian Defense,0.533,Grünfeld Defense,d4 Nf6 c4 g6 Nc3 Bg7 e4 d6,0.344,9.2,0.466
+8,Zukertort Opening / King's Indian Attack,915,Zukertort Opening,0.192,King's Indian Attack,Nf3 Nf6 g3 g6 Bg2 Bg7 O-O O-O,0.086,5.5,0.534
+9,Queen's Pawn Game / Rapport-Jobava System,902,Queen's Pawn Game,0.379,Rapport-Jobava System,d4 Nf6 Nc3 d5 Bf4 c5 e3 cxd4,0.041,4.2,0.567
+10,Italian Game,772,Italian Game,0.552,Ruy Lopez,e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5,0.141,8.7,0.525
+11,Modern Defense,765,Modern Defense,0.522,Pirc Defense,e4 g6 d4 Bg7 Nc3 d6 Be3 a6,0.054,5.6,0.286
+12,Ruy Lopez,720,Ruy Lopez,0.997,Scotch Game,e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6,0.814,13.0,0.542
+13,Catalan Opening / Queen's Indian Defense,683,Catalan Opening,0.351,Queen's Indian Defense,d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+,0.083,8.2,0.458
+14,Sicilian Defense 3,683,Sicilian Defense,0.565,English Opening,c4 c5 g3 g6 Bg2 Bg7 Nc3 Nc6,0.037,4.9,0.514
+15,Queen's Indian Defense / Indian Defense,646,Queen's Indian Defense,0.214,Indian Defense,d4 Nf6 c4 c5 d5 b5 cxb5 a6,0.068,5.7,0.289
+16,English Opening,629,English Opening,0.633,Grob Opening,c4 e5 g3 Nf6 Bg2 d5 cxd5 Nxd5,0.033,5.2,0.595
+17,King's Indian Attack,546,King's Indian Attack,0.518,English Opening,Nf3 d5 g3 Nf6 Bg2 e6 O-O Be7,0.046,4.8,0.734
+18,Nimzo-Larsen Attack,477,Nimzo-Larsen Attack,0.528,Sicilian Defense,e4 e6 b3 d5 Bb2 dxe4 Nc3 Nf6,0.015,3.3,0.65
+19,Queen's Pawn Game / Zukertort Opening,407,Queen's Pawn Game,0.118,Zukertort Opening,Nf3 Nf6 b3 g6 Bb2 Bg7 e3 O-O,0.034,4.5,0.45

@@ -1,0 +1,6 @@
+chess
+matplotlib
+numpy
+rapidfuzz
+scikit-learn
+scipy
